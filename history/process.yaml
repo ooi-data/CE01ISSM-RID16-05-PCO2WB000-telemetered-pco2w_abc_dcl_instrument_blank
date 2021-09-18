@@ -1,6 +1,6 @@
 data_location: s3://ooi-data/CE01ISSM-RID16-05-PCO2WB000-telemetered-pco2w_abc_dcl_instrument_blank
 data_stream: CE01ISSM-RID16-05-PCO2WB000-telemetered-pco2w_abc_dcl_instrument_blank
 end_date: '2021-09-10T18:36:16.831Z'
-last_updated: '2021-09-18T03:03:16.020321Z'
+last_updated: '2021-09-18T03:12:24.825237'
 start_date: '2014-10-13T12:36:22.108Z'
-status: pending
+status: success
